@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "img1",
+      "description": "Image aléatoire 1",
+      "imageUrl": "https://images.unsplash.com/photo-1712824706782-852780a434dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwYXlzYWdlJTIwbmF0dXJlfGVufDB8fHx8MTc2Mjg3NjEwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paysage nature"
+    },
+    {
+      "id": "img2",
+      "description": "Image aléatoire 2",
+      "imageUrl": "https://images.unsplash.com/photo-1605022568040-b3aa9292086a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx2aWxsZSUyMGFyY2hpdGVjdHVyZXxlbnwwfHx8fDE3NjI4NzYxMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ville architecture"
+    },
+    {
+      "id": "img3",
+      "description": "Image aléatoire 3",
+      "imageUrl": "https://images.unsplash.com/photo-1587402092301-725e37c70fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhbmltYWwlMjBtaWdub258ZW58MHx8fHwxNzYyODc2MTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "animal mignon"
+    },
+    {
+      "id": "img4",
+      "description": "Image aléatoire 4",
+      "imageUrl": "https://picsum.photos/seed/picsum4/600/400",
+      "imageHint": "nourriture délicieux"
+    },
+    {
+      "id": "img5",
+      "description": "Image aléatoire 5",
+      "imageUrl": "https://images.unsplash.com/photo-1692607520478-8f4645adca1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0ZWNobm9sb2dpZSUyMGFic3RyYWl0fGVufDB8fHx8MTc2Mjg3NjEwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technologie abstrait"
+    },
+    {
+      "id": "img6",
+      "description": "Image aléatoire 6",
+      "imageUrl": "https://images.unsplash.com/photo-1700319021396-95aec8e168ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzcG9ydCUyMGFjdGlvbnxlbnwwfHx8fDE3NjI3OTEzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sport action"
+    }
+  ]
+}
