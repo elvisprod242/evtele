@@ -6,7 +6,7 @@ export const ALL_CHANNELS: Channel[] = [
     name: 'Ev Télé',
     logoUrl: '/images/evtele.png',
     logoHint: 'television logo',
-    streamUrl: 'https://terranoweb.duckdns.org/live/Evtele/index.m3u8',
+    streamUrl: 'https://c.streamhoster.com/link/hls/Wns3eE/i3hogHZs0zc/mtRZn0sX3Up_5/playlist.m3u8',
     group: 'TV',
     description: 'La chaine humanitaire.'
   },
